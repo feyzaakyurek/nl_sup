@@ -1,0 +1,7 @@
+*.json
+*.csv
+*.txt
+*.log
+openai_key.txt
+definitions/data_winodict/*
+definitions/data_misra/*
